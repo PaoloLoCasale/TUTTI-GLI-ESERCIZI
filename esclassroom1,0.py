@@ -1,4 +1,4 @@
-#Programma che preso un dizionario di studenti e voti restituisca un altro dizionario con studenti e medie valori
+#Programma che preso un dizionario di studenti e voti restituisca un altro dizionario con studenti e intervallo voti
 
 import math
 print("I voti vanno da 18 a 30.")
